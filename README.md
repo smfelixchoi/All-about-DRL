@@ -7,3 +7,4 @@ What I have learned about Deep Reinforcement Learning
 4. Deep Q-Networks
 5. Policy Gradient
 6. Actor-Critic
+7. TRPO and PPO
